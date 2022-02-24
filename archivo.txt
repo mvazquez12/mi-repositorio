@@ -1,3 +1,5 @@
 This is a test file
 Ahora es una prueba de archivo
 Cambio desde remote
+
+Nueva línea desde local
